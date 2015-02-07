@@ -8,5 +8,7 @@ jQuery(document).ready(
 				jQuery(item).show();
 			}
 		});	
+
+		jQuery('.flexslider-sidebar').flexslider();	
 	}
 );
