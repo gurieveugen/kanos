@@ -1,0 +1,113 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-arrow_left {
+    width: 16px;
+    height: 31px;
+    background-position: -5px -5px;
+}
+
+.sprite-arrow_right {
+    width: 16px;
+    height: 31px;
+    background-position: -31px -5px;
+}
+
+.sprite-comment_icon {
+    width: 8px;
+    height: 7px;
+    background-position: -57px -5px;
+}
+
+.sprite-facebook {
+    width: 26px;
+    height: 26px;
+    background-position: -75px -5px;
+}
+
+.sprite-facebook_hover {
+    width: 26px;
+    height: 26px;
+    background-position: -57px -41px;
+}
+
+.sprite-load-more-arrow {
+    width: 9px;
+    height: 7px;
+    background-position: -111px -5px;
+}
+
+.sprite-odnoklassniki {
+    width: 26px;
+    height: 26px;
+    background-position: -93px -41px;
+}
+
+.sprite-odnoklassniki_hover {
+    width: 26px;
+    height: 26px;
+    background-position: -5px -77px;
+}
+
+.sprite-photo_icon {
+    width: 14px;
+    height: 10px;
+    background-position: -41px -77px;
+}
+
+.sprite-search_icon {
+    width: 15px;
+    height: 16px;
+    background-position: -65px -77px;
+}
+
+.sprite-twitter {
+    width: 26px;
+    height: 26px;
+    background-position: -90px -77px;
+}
+
+.sprite-twitter_hover {
+    width: 26px;
+    height: 26px;
+    background-position: -130px -5px;
+}
+
+.sprite-video_icon {
+    width: 13px;
+    height: 9px;
+    background-position: -129px -41px;
+}
+
+.sprite-view_icon {
+    width: 8px;
+    height: 6px;
+    background-position: -152px -41px;
+}
+
+.sprite-vkontakte {
+    width: 26px;
+    height: 26px;
+    background-position: -129px -60px;
+}
+
+.sprite-vkontakte_hover {
+    width: 26px;
+    height: 26px;
+    background-position: -126px -96px;
+}
+
+.sprite-you_tube {
+    width: 26px;
+    height: 26px;
+    background-position: -5px -132px;
+}
+
+.sprite-you_tube_hover {
+    width: 26px;
+    height: 26px;
+    background-position: -41px -132px;
+}
